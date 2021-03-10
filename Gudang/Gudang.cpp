@@ -23,6 +23,7 @@ char list_harga(); char get_menu();
 
 int main()
 {
+	//test lagi
 	while (true)
 	{
 		char select = get_menu();
